@@ -26,6 +26,7 @@ O sistema permite:
 1️⃣ Clone o repositório:
 
 git clone <https://github.com/LucasB-Oliveira/Desafio_Backend.git>
+
 cd <Desafio_Backend>
 
 2️⃣ Crie e ative um ambiente virtual na Pasta Principal:
