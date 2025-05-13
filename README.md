@@ -25,7 +25,7 @@ O sistema permite:
 
 1️⃣ Clone o repositório:
 
-git clone <https://github.com/LucasB-Oliveira/Deasafio_Backend.git>
+git clone <https://github.com/LucasB-Oliveira/Desafio_Backend.git>
 cd <Desafio_Backend>
 cd.. (Se precisar voltar um diretório depois:)
 
